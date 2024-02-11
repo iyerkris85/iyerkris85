@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @iyerkris85
-- 👀 I’m interested in building small applications using React, Python, Go. I mostly focus on building bricks and libraries
-- 🌱 I’m currently learning python, React Native, GraphQL
-- 💞️ I work in silos. 
-- 📫 You can file github tickets for my public repos. Feel free to fork them
+
